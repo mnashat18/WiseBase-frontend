@@ -1,6 +1,6 @@
-# Wellar AI Frontend 🚀
+# Wisebase Frontend 🚀
 
-Frontend application for Wellar AI SaaS platform built with Angular 21 and TypeScript.
+Frontend application for Wisebase SaaS platform built with Angular 21 and TypeScript.
 
 This project focuses on building responsive, scalable, and production-ready web interfaces with modern Angular architecture, reusable components, and REST API integration.
 
